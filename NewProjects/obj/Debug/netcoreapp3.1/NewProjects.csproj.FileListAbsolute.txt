@@ -1,0 +1,14 @@
+C:\Users\lucas.smith\Desktop\dio\NewProjects\bin\Debug\netcoreapp3.1\NewProjects.exe
+C:\Users\lucas.smith\Desktop\dio\NewProjects\bin\Debug\netcoreapp3.1\NewProjects.deps.json
+C:\Users\lucas.smith\Desktop\dio\NewProjects\bin\Debug\netcoreapp3.1\NewProjects.runtimeconfig.json
+C:\Users\lucas.smith\Desktop\dio\NewProjects\bin\Debug\netcoreapp3.1\NewProjects.runtimeconfig.dev.json
+C:\Users\lucas.smith\Desktop\dio\NewProjects\bin\Debug\netcoreapp3.1\NewProjects.dll
+C:\Users\lucas.smith\Desktop\dio\NewProjects\bin\Debug\netcoreapp3.1\NewProjects.pdb
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.csproj.AssemblyReference.cache
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.AssemblyInfoInputs.cache
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.AssemblyInfo.cs
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.csproj.CoreCompileInputs.cache
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.dll
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.pdb
+C:\Users\lucas.smith\Desktop\dio\NewProjects\obj\Debug\netcoreapp3.1\NewProjects.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+please separate the test repository to another location, then reference the console project in the xunit test project.
